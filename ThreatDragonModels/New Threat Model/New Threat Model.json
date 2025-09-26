@@ -1277,13 +1277,13 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Boundary",
-              "name": "Trust Boundary",
+              "name": "Generic Trust Boundary",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
             "labels": [
-              "Trust Boundary"
+              "Generic Trust Boundary"
             ],
             "id": "ab7816f5-03f2-426b-b19d-7b5988385680",
             "source": {
@@ -1313,12 +1313,12 @@
             ],
             "id": "5f02a141-3b0f-4afe-a065-2d5bb21a1226",
             "source": {
-              "x": -1770,
-              "y": 120
+              "x": -1730,
+              "y": 100
             },
             "target": {
-              "x": -1673,
-              "y": 590
+              "x": -1750,
+              "y": 790
             },
             "vertices": []
           }
